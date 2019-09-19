@@ -84,5 +84,15 @@
         "name": "Medical"
       }
     ]
+  },
+  {
+    "name": "Father's first name",
+    "uuid": "ef427343-2237-4d76-8d47-3fb60cf72305",
+    "dataType": "Text"
+  },
+  {
+    "name": "Father's last name",
+    "uuid": "b6095f95-9ddf-4047-8fa4-1736ad92f772",
+    "dataType": "Text"
   }
 ]
