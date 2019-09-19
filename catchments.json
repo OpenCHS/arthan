@@ -1,0 +1,16 @@
+{
+  "organisation": "Arthan",
+  "catchments": [
+    {
+        "name": "sample catchment",
+        "uuid": "1b3af4bb-41e7-47fa-8a9b-9a2718d48e85",
+        "type": "classrooms",
+        "locations": [
+          {
+            "uuid": "fc01acec-4e9a-4041-908b-0d2a1714841e",
+            "comment": "Anuppur"
+          }
+        ]
+    }
+  ]
+}

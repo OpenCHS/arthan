@@ -1,0 +1,16 @@
+[
+
+  {
+    "uuid": "56a6fad6-2fe0-4ef7-b8c6-0834bb09795e",
+    "name": "School",
+    "level": 2
+  },
+  {
+    "uuid": "6c1184d9-3de3-4930-bccd-d5c1a94335db",
+    "name": "Classroom",
+    "level": 1,
+    "parent": {
+      "uuid": "56a6fad6-2fe0-4ef7-b8c6-0834bb09795e"
+    }
+  }
+]

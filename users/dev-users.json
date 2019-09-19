@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "96c07370-edea-4006-b3eb-578236fa770c",
+    "name": "dev@arthan",
+    "password": "password",
+    "email": "openchssupport+arthan@samanvayfoundation.org",
+    "phoneNumber": "+919923139403",
+    "organisationUUID": "b138b4c3-1243-49d4-90e3-1aa38e67ac1d",
+    "catchmentUUID": "1b3af4bb-41e7-47fa-8a9b-9a2718d48e85",
+    "operatingIndividualScope": "ByCatchment",
+    "admin": false,
+    "orgAdmin": false
+  }
+]

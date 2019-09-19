@@ -1,0 +1,88 @@
+[
+  {
+    "uuid": "1b7ca1b1-70af-49df-abb8-caac16778a57",
+    "name": "ST"
+  },
+  {
+    "uuid": "f8c2f026-8bc0-4ea7-ab61-7190377ff7cc",
+    "name": "SC"
+  },
+  {
+    "uuid": "22b1111f-99f1-4f69-a2c7-7f187ade86dd",
+    "name": "OBC"
+  },
+  {
+    "uuid": "96079aaf-e2f6-42df-9112-916d0c9d4bdf",
+    "name": "General"
+  },
+  {
+    "name": "Category",
+    "uuid": "d123af4f-6260-46df-bbf4-e1944b3d1bd4",
+    "dataType": "Coded",
+    "answers": [
+      {
+        "uuid": "1b7ca1b1-70af-49df-abb8-caac16778a57",
+        "name": "ST"
+      },
+      {
+        "uuid": "f8c2f026-8bc0-4ea7-ab61-7190377ff7cc",
+        "name": "SC"
+      },
+      {
+        "uuid": "22b1111f-99f1-4f69-a2c7-7f187ade86dd",
+        "name": "OBC"
+      },
+      {
+        "uuid": "96079aaf-e2f6-42df-9112-916d0c9d4bdf",
+        "name": "General"
+      }
+    ]
+  },
+  {
+    "uuid": "2953773b-23f3-4e9d-a8ee-fdd17c5a8538",
+    "name": "Not applicable"
+  },
+  {
+    "uuid": "f7973aa7-8793-41e6-9e1f-a059f3ffca87",
+    "name": "Science"
+  },
+  {
+    "uuid": "86952051-8d4c-4e74-9066-034b3f8f541f",
+    "name": "Arts"
+  },
+  {
+    "uuid": "857993fc-ea83-4150-913b-6c779f3b4102",
+    "name": "Commerce"
+  },
+  {
+    "uuid": "1796ee00-a43b-4089-a876-23efa496234c",
+    "name": "Medical"
+  },
+  {
+    "name": "Stream",
+    "uuid": "3b897131-a7f6-4f76-bedf-d7bfaf4a7a5d",
+    "dataType": "Coded",
+    "answers": [
+      {
+        "uuid": "2953773b-23f3-4e9d-a8ee-fdd17c5a8538",
+        "name": "Not applicable"
+      },
+      {
+        "uuid": "f7973aa7-8793-41e6-9e1f-a059f3ffca87",
+        "name": "Science"
+      },
+      {
+        "uuid": "86952051-8d4c-4e74-9066-034b3f8f541f",
+        "name": "Arts"
+      },
+      {
+        "uuid": "857993fc-ea83-4150-913b-6c779f3b4102",
+        "name": "Commerce"
+      },
+      {
+        "uuid": "1796ee00-a43b-4089-a876-23efa496234c",
+        "name": "Medical"
+      }
+    ]
+  }
+]

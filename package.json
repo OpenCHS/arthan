@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "Arthan OpenCHS implementation",
+  "main": "Makefile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenCHS/arthan.git"
+  },
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "keywords": [
+    "openchs",
+    "implementation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "openchs-idi": "github:openchs/openchs-idi#6fbc334bdb0b1ea62c49697019e86dc3103d4357",
+    "rules-config": "github:openchs/rules-config#45e1b241b5d5ee1106633ea475c9515263b8ce4a",
+    "webpack": "^4.12.0"
+  }
+}

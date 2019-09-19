@@ -1,0 +1,39 @@
+{
+  "name": "Student registration",
+  "uuid": "6c4331e6-6600-4279-9376-279216229916",
+  "formType": "IndividualProfile",
+  "formElementGroups": [
+    {
+      "uuid": "c27f21cd-d7a3-463d-bed1-518015b09c2e",
+      "name": "Details",
+      "display": "Details",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Category",
+          "uuid": "55992d12-7bee-4c90-9ead-247659162fca",
+          "keyValues": [],
+          "type": "SingleSelect",
+          "concept": {
+            "name": "Category",
+            "uuid": "d123af4f-6260-46df-bbf4-e1944b3d1bd4"
+          },
+          "displayOrder": 1,
+          "mandatory": true
+        },
+        {
+          "name": "Stream",
+          "uuid": "8e2bc811-e981-4b1b-860a-68f94559fdb5",
+          "keyValues": [],
+          "type": "SingleSelect",
+          "concept": {
+            "name": "Stream",
+            "uuid": "3b897131-a7f6-4f76-bedf-d7bfaf4a7a5d"
+          },
+          "displayOrder": 2,
+          "mandatory": true
+        }
+      ]
+    }
+  ]
+}

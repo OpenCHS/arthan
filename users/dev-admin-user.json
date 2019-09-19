@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "163c90b0-0bb4-485a-be0a-f544f8d66bfc",
+    "name": "admin@arthan",
+    "password": "password",
+    "email": "myemail.id",
+    "phoneNumber": "+919999999999",
+    "organisationUUID": "b138b4c3-1243-49d4-90e3-1aa38e67ac1d",
+    "operatingIndividualScope": "None",
+    "admin": false,
+    "orgAdmin": true
+  }
+]
