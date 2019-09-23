@@ -11,8 +11,9 @@ module.exports = IDI.configure({
         },
         "forms": [
             "./registration/registrationForm.json",
+            "./baseline/baselineForm.json",
             "./program1/enrolment.json",
-            "./program1/encounter1.json",
+            "./program1/encounter1.json"           
         ],
         "formMappings": ["./formMappings.json"],
         "formDeletions": [],
@@ -21,8 +22,8 @@ module.exports = IDI.configure({
         "checklistDetails": [],
         "concepts": [
             "./registration/concepts.json",
+            "./baseline/baselineConcepts.json",
             "./program1/concepts.json",
-            "./program2/concepts.json",
         ],
         "addressLevelTypes": [
             "locations/addressLevelType.json",

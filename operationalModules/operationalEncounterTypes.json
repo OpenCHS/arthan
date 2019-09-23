@@ -1,5 +1,13 @@
 {
   "organisationName": "Arthan",
   "operationalEncounterTypes": [
+    {
+      "uuid": "f56658b2-401c-46f0-bc43-32be7c631539",
+      "name": "Baseline",
+      "encounterType": {
+        "uuid": "a30afe96-cdbb-42d9-bf30-6cf4b07354d1",
+        "name": "Baseline"
+  }
+}
   ]
 }

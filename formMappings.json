@@ -3,5 +3,12 @@
     "uuid": "185dc79d-cf32-4d2f-b406-aa5fad483d04",
     "formUUID": "6c4331e6-6600-4279-9376-279216229916",
     "comment": "Student registration form"
+  },
+  {
+    "uuid": "e9b4d41e-bd81-4242-ab7c-9fc13903296b",
+    "formUUID": "c7ae45cb-16f2-4950-8f5d-4de8fb045262",
+    "encounterTypeUUID": "a30afe96-cdbb-42d9-bf30-6cf4b07354d1",
+    "comment": "Baseline",
+    "subjectTypeUUID": "30a3866d-0b3e-4d7e-9276-92a552d74168"
   }
 ]
