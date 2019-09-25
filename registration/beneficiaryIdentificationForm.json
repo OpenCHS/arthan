@@ -1,0 +1,42 @@
+{
+  "name": "Student Identification",
+  "uuid": "3e05b7d8-378f-401b-927b-a5c1efc22393",
+  "formType": "BeneficiaryIdentification",
+  "formElementGroups": [
+    {
+      "uuid": "f7048661-0dad-4cf8-beb3-8f35f7fa8d4a",
+      "name": "Identification",
+      "display": "Identification",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Student ID",
+          "uuid": "b19a38df-52aa-416c-bfa6-52e8c3fc74f9",
+          "keyValues": [],
+          "concept": {
+            "uuid": "75bf2719-69ca-4906-98ff-d5c0f04cc708"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Date of birth",
+          "uuid": "a0267b2a-090e-4a6a-898b-fb2bbbc08246",
+          "keyValues": [
+            {
+              "key": "individualprop",
+              "value": "dateOfBirth"
+            }
+          ],
+          "concept": {
+            "name": "Date of birth",
+            "uuid": "a536ea98-87ba-4d58-93d1-7929797f188a",
+            "dataType": "Date"
+          },
+          "displayOrder": 2,
+          "mandatory": true
+        }
+      ]
+    }
+  ]
+}

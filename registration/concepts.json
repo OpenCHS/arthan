@@ -94,5 +94,16 @@
     "name": "Father's last name",
     "uuid": "b6095f95-9ddf-4047-8fa4-1736ad92f772",
     "dataType": "Text"
+  },
+  {
+    "name": "Student ID",
+    "uuid": "75bf2719-69ca-4906-98ff-d5c0f04cc708",
+    "dataType": "Text"
+  },
+  {
+    "name": "Date of birth",
+    "uuid": "a536ea98-87ba-4d58-93d1-7929797f188a",
+    "dataType": "Date"
   }
+
 ]

@@ -10,6 +10,18 @@
       "displayOrder": 1,
       "formElements": [
         {
+          "name": "Student ID",
+          "uuid": "8c16dd25-26de-4f18-b837-15b5198b0b58",
+          "keyValues": [],
+          "concept": {
+            "name": "Student ID",
+            "uuid": "75bf2719-69ca-4906-98ff-d5c0f04cc708"
+          },
+          "displayOrder": 1,
+          "mandatory": true
+        },
+
+        {
           "name": "Father's first name",
           "uuid": "93c903a7-a1e5-4569-9413-fd569b8d0a84",
           "keyValues": [],
@@ -17,7 +29,7 @@
             "name": "Father's first name",
             "uuid": "ef427343-2237-4d76-8d47-3fb60cf72305"
           },
-          "displayOrder": 1,
+          "displayOrder": 2,
           "mandatory": true
         },
         {
@@ -28,7 +40,7 @@
             "name": "Father's last name",
             "uuid": "b6095f95-9ddf-4047-8fa4-1736ad92f772"
           },
-          "displayOrder": 2,
+          "displayOrder": 3,
           "mandatory": true
         },
 
@@ -41,7 +53,7 @@
             "name": "Category",
             "uuid": "d123af4f-6260-46df-bbf4-e1944b3d1bd4"
           },
-          "displayOrder": 3,
+          "displayOrder": 4,
           "mandatory": true
         },
         {
@@ -53,7 +65,7 @@
             "name": "Stream",
             "uuid": "3b897131-a7f6-4f76-bedf-d7bfaf4a7a5d"
           },
-          "displayOrder": 4,
+          "displayOrder": 5,
           "mandatory": true
         }
       ]

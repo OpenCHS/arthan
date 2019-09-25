@@ -11,6 +11,7 @@ module.exports = IDI.configure({
         },
         "forms": [
             "./registration/registrationForm.json",
+            "./registration/beneficiaryIdentificationForm.json",
             "./baseline/baselineForm.json",
             "./program1/enrolment.json",
             "./program1/encounter1.json"           
