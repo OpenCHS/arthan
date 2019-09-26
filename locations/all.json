@@ -15,6 +15,17 @@
       }
     ],
     "level": 1
+  },
+  {
+    "name": "6B, ABC school",
+    "uuid": "d9e78ac4-caeb-4d94-a3db-5b3a168dbd43",
+    "addressLevelTypeUUID": "6c1184d9-3de3-4930-bccd-d5c1a94335db",
+    "parents": [
+      {
+        "uuid": "de9c5451-501a-4dbf-9b85-5124773db0d6"
+      }
+    ],
+    "level": 1
   }
 
 

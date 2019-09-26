@@ -7,7 +7,14 @@
       "encounterType": {
         "uuid": "a30afe96-cdbb-42d9-bf30-6cf4b07354d1",
         "name": "Baseline"
-  }
-}
+      }
+    },
+    {
+      "uuid": "a10cc0e1-c5ad-430d-9732-250d9e98f010",
+      "name": "Classroom session",
+      "encounterType": {
+        "uuid": "01a8f32c-9e25-4388-9cbf-b32442733af2"
+      }
+    }
   ]
 }

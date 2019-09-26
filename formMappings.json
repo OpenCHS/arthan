@@ -10,5 +10,12 @@
     "encounterTypeUUID": "a30afe96-cdbb-42d9-bf30-6cf4b07354d1",
     "comment": "Baseline",
     "subjectTypeUUID": "30a3866d-0b3e-4d7e-9276-92a552d74168"
+  },
+  {
+    "uuid": "5c7408ed-715b-46d3-bc24-d30e57a575fc",
+    "formUUID": "e83d67eb-f9bd-4ef7-9cd9-0b4901fa8a8c",
+    "encounterTypeUUID": "01a8f32c-9e25-4388-9cbf-b32442733af2",
+    "subjectTypeUUID": "df08d98c-4b26-4b54-8b28-16bc5fd2e786",
+    "comment": "Classroom session form"
   }
 ]

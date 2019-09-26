@@ -17,7 +17,7 @@
             "uuid": "75bf2719-69ca-4906-98ff-d5c0f04cc708"
           },
           "displayOrder": 1,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Date of birth",

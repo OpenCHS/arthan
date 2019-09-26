@@ -13,8 +13,7 @@ module.exports = IDI.configure({
             "./registration/registrationForm.json",
             "./registration/beneficiaryIdentificationForm.json",
             "./baseline/baselineForm.json",
-            "./program1/enrolment.json",
-            "./program1/encounter1.json"           
+            "./classroomSession/classroomSessionForm.json"
         ],
         "formMappings": ["./formMappings.json"],
         "formDeletions": [],
@@ -24,7 +23,7 @@ module.exports = IDI.configure({
         "concepts": [
             "./registration/concepts.json",
             "./baseline/baselineConcepts.json",
-            "./program1/concepts.json",
+            "./classroomSession/classroomSessionConcepts.json"
         ],
         "addressLevelTypes": [
             "locations/addressLevelType.json",
