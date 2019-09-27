@@ -50,6 +50,16 @@
           },
           "displayOrder": 4,
           "mandatory": true
+        },
+        {
+          "name": "What can be improved",
+          "uuid": "cc7e739b-7fe9-4d40-a0b7-67975787e52e",
+          "keyValues": [],
+          "concept": {
+            "uuid": "e8590a11-1abc-4bcc-b6c7-9e6191a2e9c1"
+          },
+          "displayOrder": 5,
+          "mandatory": true
         }
       ]
     }

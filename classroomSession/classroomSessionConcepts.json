@@ -7,8 +7,6 @@
     "highAbsolute": 20,
     "lowNormal": 1,
     "highNormal": 20
-
-
   },
   {
     "name": "Number of students present",
@@ -23,6 +21,11 @@
   {
     "name": "What went well",
     "uuid": "a8a95e50-7f6e-4088-8b71-eabe44ae0fd7",
+    "dataType": "Text"
+  },
+  {
+    "name": "What can be improved",
+    "uuid": "e8590a11-1abc-4bcc-b6c7-9e6191a2e9c1",
     "dataType": "Text"
   }
 ]
