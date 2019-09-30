@@ -15,6 +15,13 @@
       "encounterType": {
         "uuid": "01a8f32c-9e25-4388-9cbf-b32442733af2"
       }
+    },
+    {
+      "uuid": "1a8ae5a0-4a31-4695-ab4c-74b186ce3e47",
+      "name": "Psychometric Format",
+      "encounterType": {
+        "uuid": "494b6c57-e314-48fa-90f1-c5d1ccf135b8"
+      }
     }
   ]
 }

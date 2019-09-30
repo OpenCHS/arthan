@@ -1,0 +1,463 @@
+[
+  {
+    "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "name": "Like"
+  },
+  {
+    "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "name": "Dislike"
+  },
+  {
+    "name": "Repair a TV/radio",
+    "uuid": "01332087-beb1-408c-ab2c-6ccb1d009224",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Design a magazine cover",
+    "uuid": "1f2b8837-da7f-4b21-b406-760c2463588c",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Do scientific experiments",
+    "uuid": "3e941e81-047b-4d86-87f7-54477b36bafe",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Draw and Paint",
+    "uuid": "5844ca16-8cf8-4c60-be3c-bb942fd8d1a7",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Teach younger children",
+    "uuid": "31e2fa21-e862-4c8b-a981-8fdc711fdfd8",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Talk to people and build connections with them",
+    "uuid": "4f5aa2ab-57b0-4ba0-acc2-3f84b1420da2",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Plan a strategy to launch a new soap in the market",
+    "uuid": "0fc42251-47b7-435d-831a-4d4a697b45c8",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Maintain financial record of money your family earns and spends",
+    "uuid": "b12d1214-492a-47a2-a9a7-8fa8c7f61d3b",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Research the properties of a chemical",
+    "uuid": "69a76f3f-99e1-4098-8d8b-4fd920df05fa",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Make a greeting card",
+    "uuid": "0ae1ad74-9ca1-4cd4-8be1-1dbc41e92a79",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Help a blind person by reading aloud a book to him/her",
+    "uuid": "1d8c88c5-13ac-47d4-b784-1f15cf5a32fd",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Give tuitions to children",
+    "uuid": "d3edb361-4080-45e6-bf91-5c3cb0a06460",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Make notes for every subject",
+    "uuid": "980bf58b-6065-4b7c-83b2-e016f640ac0d",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Install cupboards in a house",
+    "uuid": "f59c660b-48b1-48a5-a4d8-4ef424cb7ec4",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Look at cells through a microscope",
+    "uuid": "267d3082-750d-445a-a6a4-59c17826c366",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Write a story for a film",
+    "uuid": "c63b3345-c472-4c43-a71b-caefcac33535",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Counsel a depressed child",
+    "uuid": "5d4ae31c-6c8b-4697-b4f5-206300a60940",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Calculate the loan that can be taken up on your family income",
+    "uuid": "29b07844-5476-43c1-880b-bb4753b4901e",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Build a house",
+    "uuid": "48e25604-51b7-4fa2-b282-7ab7f370b833",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Operate a bulldozer",
+    "uuid": "5f5f01c8-dde8-4998-a4a4-49c919304ae6",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Plan activities for elderly people",
+    "uuid": "84d2ca92-c838-4b5c-b2cc-4dced659c496",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Be the class leader/group leader",
+    "uuid": "a4277731-5a07-4130-83a1-7ec52674ffd6",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Calculate the cost of a family trip your family plans to take",
+    "uuid": "82a0c386-646f-485d-af80-de8bfd3952c8",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Analyse river water for pollution",
+    "uuid": "5392d284-0749-421a-b862-e1b69580575e",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Do lab tests to find out about a disease",
+    "uuid": "109dad75-aad6-4e18-ae16-d74993789a4b",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Open up a radio to see how it works",
+    "uuid": "ed42211d-4b97-48d9-9e75-de15043cc43e",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Write a poem",
+    "uuid": "9c94d89c-5e2d-4a3a-a1ee-bccdfc028fcf",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Make diet charts for yourself and your family members",
+    "uuid": "4a11bc42-431e-4734-9482-9fedb8407f80",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Give a motivational speech in front of many people",
+    "uuid": "ef7e4199-ca63-4b41-890a-7d1aea58d397",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  },
+  {
+    "name": "Persuade others to your view point",
+    "uuid": "e093da5b-89ca-4bd8-b54e-ef00eed90720",
+    "dataType": "Coded",
+    "answers": [
+        {
+            "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+            "name": "Like"
+          },
+          {
+            "uuid": "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+            "name": "Dislike"
+          }
+    ]
+  }
+
+
+
+]
