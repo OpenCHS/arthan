@@ -12,6 +12,7 @@ module.exports = IDI.configure({
         "forms": [
             "./registration/registrationForm.json",
             "./registration/beneficiaryIdentificationForm.json",
+            "./daftarDuniya/enrolment.json",
             "./baseline/baselineForm.json",
             "./classroomSession/classroomSessionForm.json",
             "./psychometricformat/psychometricFormatForm.json",
@@ -24,6 +25,7 @@ module.exports = IDI.configure({
         "checklistDetails": [],
         "concepts": [
             "./registration/concepts.json",
+            "./daftarDuniya/enrolmentConcepts.json",
             "./baseline/baselineConcepts.json",
             "./classroomSession/classroomSessionConcepts.json",
             "./psychometricformat/psychometricFormatConcepts.json"
