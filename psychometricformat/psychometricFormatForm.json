@@ -1,7 +1,7 @@
 {
   "name": "Psychometric Format Form",
   "uuid": "1a764140-f028-438d-9db4-a81c95d36f7c",
-  "formType": "Encounter",
+  "formType": "ProgramEncounter",
   "formElementGroups": [
     {
       "uuid": "40e87320-074a-4e9f-a0d1-9dc50ad5cc6a",

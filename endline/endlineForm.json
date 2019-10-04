@@ -1,7 +1,7 @@
 {
     "name": "Endline",
     "uuid": "c199add4-5769-4282-be33-4efa292cc080",
-    "formType": "Encounter",
+    "formType": "ProgramEncounter",
     "formElementGroups": [
       {
         "uuid": "4f30eaa0-93b0-41b8-95c1-bd598e710899",
