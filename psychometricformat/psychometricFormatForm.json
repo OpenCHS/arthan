@@ -371,10 +371,28 @@
           },
           "displayOrder": 6,
           "mandatory": true
-        }
-        
+        }   
         
       ]
-    }
+    },
+    {
+      "uuid": "a2a8bb06-c198-4899-a45b-9b1c7c1c1cae",
+      "name": "RIASEC Result",
+      "display": "RIASEC Result",
+      "displayOrder": 6,
+      "formElements": [
+        {
+        "name": "Result",
+        "uuid": "d91089a9-7a28-4799-8972-203afd015773",
+        "keyValues": [],
+        "concept": {
+          "uuid": "2b6272ed-25c5-4678-be42-866b458db407",
+          "name": "Result"
+        },
+        "displayOrder": 1,
+        "mandatory": true
+        } 
+      ]
+      }
   ]
 }

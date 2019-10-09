@@ -1,5 +1,10 @@
 [
   {
+    "uuid": "2b6272ed-25c5-4678-be42-866b458db407",
+    "name": "Result",
+    "dataType":"Text"
+  },    
+  {
     "uuid": "60e6cd73-8d0c-4939-840e-955fa8fb8421",
     "name": "Like"
   },
