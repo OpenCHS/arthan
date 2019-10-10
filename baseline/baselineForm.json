@@ -10,7 +10,7 @@
       "displayOrder": 1,
       "formElements": [
         {
-          "name": "Error",
+          "name": "Baseline can be filled only once",
           "uuid": "ca9f7084-9046-4e56-bd20-e4d26875dce7",
           "keyValues": [],
           "concept": {
@@ -18,7 +18,7 @@
             "uuid": "38199f51-ca11-4c32-a4f2-debe050f2e07"
           },
           "displayOrder": 1,
-          "mandatory": true
+          "mandatory": false
         },
         {
           "name": "Have you thought of what you want to be when you grow up?",
