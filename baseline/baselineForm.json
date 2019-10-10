@@ -10,6 +10,17 @@
       "displayOrder": 1,
       "formElements": [
         {
+          "name": "Error",
+          "uuid": "ca9f7084-9046-4e56-bd20-e4d26875dce7",
+          "keyValues": [],
+          "concept": {
+            "name": "Error",
+            "uuid": "38199f51-ca11-4c32-a4f2-debe050f2e07"
+          },
+          "displayOrder": 1,
+          "mandatory": true
+        },
+        {
           "name": "Have you thought of what you want to be when you grow up?",
           "uuid": "14918c68-4f15-4953-b6a6-a19240c249e2",
           "keyValues": [],
@@ -17,7 +28,7 @@
             "name": "Have you thought of what you want to be when you grow up?",
             "uuid": "a269764f-0fab-448a-a59e-031728462375"
           },
-          "displayOrder": 1,
+          "displayOrder": 1.1,
           "mandatory": true
         },
         {

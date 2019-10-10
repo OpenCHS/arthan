@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "openchs-idi": "github:openchs/openchs-idi#6fbc334bdb0b1ea62c49697019e86dc3103d4357",
-    "rules-config": "github:openchs/rules-config#45e1b241b5d5ee1106633ea475c9515263b8ce4a",
+    "rules-config": "github:openchs/rules-config#08202533ec3f3a55977946c69d204f3df8080e61",
     "webpack": "^4.12.0"
   }
 }
