@@ -18,7 +18,7 @@
             "uuid": "38199f51-ca11-4c32-a4f2-debe050f2e07"
           },
           "displayOrder": 1,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Have you thought of what you want to be when you grow up?",

@@ -10,6 +10,17 @@
         "displayOrder": 1,
         "formElements": [
           {
+            "name": "Endline can be filled only once",
+            "uuid": "378d8f1b-99c9-47c3-a2f9-b7f860ec139e",
+            "keyValues": [],
+            "concept": {
+              "name": "Error",
+              "uuid": "38199f51-ca11-4c32-a4f2-debe050f2e07"
+            },
+            "displayOrder": 1,
+            "mandatory": true
+          },
+          {
             "name": "Have you thought of what you want to be when you grow up?",
             "uuid": "2ab773cd-c7cf-41bb-9ebf-980ab37b02fd",
             "keyValues": [],
@@ -17,7 +28,7 @@
               "name": "Have you thought of what you want to be when you grow up?",
               "uuid": "a269764f-0fab-448a-a59e-031728462375"
             },
-            "displayOrder": 1,
+            "displayOrder": 1.1,
             "mandatory": true
           },
           {
