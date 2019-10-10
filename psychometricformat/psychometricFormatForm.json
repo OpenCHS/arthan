@@ -10,6 +10,17 @@
       "displayOrder": 1,
       "formElements": [
         {
+          "name": "Psychometric can be filled only 4 times",
+          "uuid": "24255e4d-1ffc-40da-8af7-9c76cf3ddc35",
+          "keyValues": [],
+          "concept": {
+            "name": "Error",
+            "uuid": "38199f51-ca11-4c32-a4f2-debe050f2e07"
+          },
+          "displayOrder": 1,
+          "mandatory": true
+        },
+        {
           "name": "Repair a TV/radio",
           "uuid": "0fe0bce9-328e-46fd-ab05-565bbc905edb",
           "keyValues": [],
@@ -17,7 +28,7 @@
             "name": "Repair a TV/radio",
             "uuid": "01332087-beb1-408c-ab2c-6ccb1d009224"
           },
-          "displayOrder":1,
+          "displayOrder":1.1,
           "mandatory": true
         },
         {
