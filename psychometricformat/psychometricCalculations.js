@@ -8,14 +8,6 @@ import {
 import _ from 'lodash';
 
 const filter = RuleFactory('1a764140-f028-438d-9db4-a81c95d36f7c', 'ViewFilter');
-const WithStatusBuilder = StatusBuilderAnnotationFactory('programEncounter', 'formElement');
-
-const visitCount = (programEncounter) => {
-    const enrolment = programEncounter.programEnrolment;
-    const visitCount = enrolment.encounters.filter(e => e.encounterType.uuid === '494b6c57-e314-48fa-90f1-c5d1ccf135b8').length;
-    console.log(visitCount);
-    return visitCount;
-}
 
 @filter('3bbbbfcd-656a-4d47-a961-0b7133a01103', 'Psychometric calculations', 100.0)
 class PsychometricCalculationHandler {
@@ -23,55 +15,6 @@ class PsychometricCalculationHandler {
         return FormElementsStatusHelper
             .getFormElementsStatusesWithoutDefaults(new PsychometricCalculationHandler(), programEncounter, formElementGroup, today);
     }
-
-    @WithName('Psychometric can be filled only 4 times')
-   @WithStatusBuilder
-    a1([programEncounter], statusBuilder) {
-     statusBuilder.show().whenItem(visitCount(programEncounter) >= 4).is.truthy;
-    }
-
-    @WithName('Repair a TV/radio')
-   @WithStatusBuilder
-    a2([programEncounter], statusBuilder) {
-     statusBuilder.show().whenItem(visitCount(programEncounter) < 4).is.truthy;
-    }
-
-    @WithName('Design a magazine cover')
-   @WithStatusBuilder
-    a3([programEncounter], statusBuilder) {
-        statusBuilder.show().whenItem(visitCount(programEncounter) < 4 ).is.truthy;
-    }
-
-    @WithName('Do scientific experiments')
-   @WithStatusBuilder
-    a4([programEncounter], statusBuilder) {
-        statusBuilder.show().whenItem(visitCount(programEncounter) < 4 ).is.truthy;
-    }
-
-    @WithName('Draw and Paint')
-   @WithStatusBuilder
-    a5([programEncounter], statusBuilder) {
-       statusBuilder.show().whenItem(visitCount(programEncounter) < 4 ).is.truthy;
-    }
-
-    @WithName('Teach younger children')
-   @WithStatusBuilder
-    a6([programEncounter], statusBuilder) {
-       statusBuilder.show().whenItem(visitCount(programEncounter) < 4 ).is.truthy;
-    }
-
-    @WithName('Talk to people and build connections with them')
-   @WithStatusBuilder
-    a7([programEncounter], statusBuilder) {
-       statusBuilder.show().whenItem(visitCount(programEncounter) < 4 ).is.truthy;
-    }
-    
-
-
-
-
-
-
 
     result(programEncounter, formElement){
         let obs1 = programEncounter.getObservationValue('Repair a TV/radio');
