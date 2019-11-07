@@ -1,10 +1,9 @@
-[
-  {
-    "uuid": "30a3866d-0b3e-4d7e-9276-92a552d74168",
-    "name": "Individual"
-  },
-  {
-    "uuid": "df08d98c-4b26-4b54-8b28-16bc5fd2e786",
-    "name": "Classroom session"
-  }
-]
+[ {
+  "name" : "Individual",
+  "uuid" : "30a3866d-0b3e-4d7e-9276-92a552d74168",
+  "voided" : false
+}, {
+  "name" : "Classroom session",
+  "uuid" : "df08d98c-4b26-4b54-8b28-16bc5fd2e786",
+  "voided" : false
+} ]

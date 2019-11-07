@@ -10,13 +10,13 @@ module.exports = IDI.configure({
             "dev": ["./users/dev-admin-user.json"],
         },
         "forms": [
-            "./registration/registrationForm.json",
-            "./registration/beneficiaryIdentificationForm.json",
-            "./daftarDuniya/enrolment.json",
-            "./baseline/baselineForm.json",
-            "./classroomSession/classroomSessionForm.json",
-            "./psychometricformat/psychometricFormatForm.json",
-            "./endline/endlineForm.json"
+            "./forms/Student registration.json",
+            "./forms/Student Identification.json",
+            "./forms/Enrolment.json",
+            "./forms/Baseline.json",
+            "./forms/Classroom session.json",
+            "./forms/Psychometric Format Form.json",
+            "./forms/Endline.json"
         ],
         "formMappings": ["./formMappings.json"],
         "formDeletions": [],
@@ -24,24 +24,21 @@ module.exports = IDI.configure({
         "catchments": ["./catchments.json"],
         "checklistDetails": [],
         "concepts": [
-            "./registration/concepts.json",
-            "./daftarDuniya/enrolmentConcepts.json",
-            "./baseline/baselineConcepts.json",
-            "./classroomSession/classroomSessionConcepts.json",
-            "./psychometricformat/psychometricFormatConcepts.json"
+            "./concepts.json"
+            
         ],
         "addressLevelTypes": [
-            "locations/addressLevelType.json",
+            "./addressLevelTypes.json",
         ],
         "locations": [
-            "locations/all.json",
+            "./locations.json",
         ],
         "programs": ["./programs.json"],
         "encounterTypes": ["./encounterTypes.json"],
-        "operationalEncounterTypes": ["./operationalModules/operationalEncounterTypes.json"],
-        "operationalPrograms": ["./operationalModules/operationalPrograms.json"],
+        "operationalEncounterTypes": ["./operationalEncounterTypes.json"],
+        "operationalPrograms": ["./operationalPrograms.json"],
         "subjectTypes": ["subjectTypes.json"],
-        "operationalSubjectTypes": ["./operationalModules/operationalSubjectTypes.json"],
+        "operationalSubjectTypes": ["./operationalSubjectTypes.json"],
         "users": {
             "dev": ["./users/dev-users.json"],
         },

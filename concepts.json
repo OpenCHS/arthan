@@ -1,0 +1,1526 @@
+[ {
+  "name" : "Agree",
+  "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+  "dataType" : "NA"
+}, {
+  "name" : "Analyse river water for pollution",
+  "uuid" : "5392d284-0749-421a-b862-e1b69580575e",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Any other",
+  "uuid" : "43f2634f-eac3-4230-9183-1a08ea04fc9c",
+  "dataType" : "NA"
+}, {
+  "name" : "Are you stuck anywhere in the process? If yes, where?",
+  "uuid" : "be04d63d-a974-4423-be37-8527c1043ef0",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I am not feeling stuck",
+    "uuid" : "f18ed02e-510c-4b7c-9f47-9df884d01f28",
+    "order" : 1.0
+  }, {
+    "name" : "Have not decided what subjects to choose in Std XI",
+    "uuid" : "13ef706a-e32c-43d8-b6d5-f6623f3fc2eb",
+    "order" : 2.0
+  }, {
+    "name" : "Have not decided on the course I want to study after school",
+    "uuid" : "f9913615-f442-4b4d-93cb-bdfcfcd102b3",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Arts",
+  "uuid" : "86952051-8d4c-4e74-9066-034b3f8f541f",
+  "dataType" : "NA"
+}, {
+  "name" : "Average",
+  "uuid" : "e9ed6e89-a5aa-4e8e-898f-acba752729be",
+  "dataType" : "NA"
+}, {
+  "name" : "Be the class leader/group leader",
+  "uuid" : "a4277731-5a07-4130-83a1-7ec52674ffd6",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Build a house",
+  "uuid" : "48e25604-51b7-4fa2-b282-7ab7f370b833",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Calculate the cost of a family trip your family plans to take",
+  "uuid" : "82a0c386-646f-485d-af80-de8bfd3952c8",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Calculate the loan that can be taken up on your family income",
+  "uuid" : "29b07844-5476-43c1-880b-bb4753b4901e",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Can you think of 3 hard skills you have gained in school that will help you in your future career (Eg- computer, writing in english)",
+  "uuid" : "3d4a3023-e730-40b5-b430-b897424c2a57",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Can you think of 3 strengths you have?",
+  "uuid" : "10252114-030d-44c0-a5e8-96b8fb03db66",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  }, {
+    "name" : "May be",
+    "uuid" : "c0f2612e-6fa7-4801-ad9f-affef3782091",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Can you think of 3 weaknesses you have?",
+  "uuid" : "00f8c0f0-c3e6-4ae1-bc7d-bad6f284ba01",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  }, {
+    "name" : "May be",
+    "uuid" : "c0f2612e-6fa7-4801-ad9f-affef3782091",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Category",
+  "uuid" : "d123af4f-6260-46df-bbf4-e1944b3d1bd4",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "ST",
+    "uuid" : "1b7ca1b1-70af-49df-abb8-caac16778a57",
+    "order" : 1.0
+  }, {
+    "name" : "SC",
+    "uuid" : "f8c2f026-8bc0-4ea7-ab61-7190377ff7cc",
+    "order" : 2.0
+  }, {
+    "name" : "OBC",
+    "uuid" : "22b1111f-99f1-4f69-a2c7-7f187ade86dd",
+    "order" : 3.0
+  }, {
+    "name" : "General",
+    "uuid" : "96079aaf-e2f6-42df-9112-916d0c9d4bdf",
+    "order" : 4.0
+  } ]
+}, {
+  "name" : "Commerce",
+  "uuid" : "857993fc-ea83-4150-913b-6c779f3b4102",
+  "dataType" : "NA"
+}, {
+  "name" : "Completely agree",
+  "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+  "dataType" : "NA"
+}, {
+  "name" : "Completely disagree",
+  "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+  "dataType" : "NA"
+}, {
+  "name" : "Confident, I have decided what I want to do and have planned my career path",
+  "uuid" : "c612cfcc-66b8-4525-8127-c0096723983d",
+  "dataType" : "NA"
+}, {
+  "name" : "Confused: I don't have enough information to plan my career/ I have too much information",
+  "uuid" : "38795739-1096-4e8d-8d60-fbf305b2e4ba",
+  "dataType" : "NA"
+}, {
+  "name" : "Counsel a depressed child",
+  "uuid" : "5d4ae31c-6c8b-4697-b4f5-206300a60940",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Date of birth",
+  "uuid" : "a536ea98-87ba-4d58-93d1-7929797f188a",
+  "dataType" : "Date"
+}, {
+  "name" : "Definitely: I know my skills will help me",
+  "uuid" : "21ca8e69-8b87-4e9b-86f1-21926e86b10a",
+  "dataType" : "NA"
+}, {
+  "name" : "Definitely: I know what my interests are and I enjoy doing them",
+  "uuid" : "4d218d6c-df79-4832-bb92-73063526a2d6",
+  "dataType" : "NA"
+}, {
+  "name" : "Definitely: I will definitely face challenges in reaching my pursuing my dream career",
+  "uuid" : "e7041e8c-5832-435d-9692-e456402e6d89",
+  "dataType" : "NA"
+}, {
+  "name" : "Design a magazine cover",
+  "uuid" : "1f2b8837-da7f-4b21-b406-760c2463588c",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Diploma",
+  "uuid" : "7d405d21-d6de-48b6-8cfd-0961fc87b85a",
+  "dataType" : "NA"
+}, {
+  "name" : "Disagree",
+  "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+  "dataType" : "NA"
+}, {
+  "name" : "Dislike",
+  "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+  "dataType" : "NA"
+}, {
+  "name" : "Do lab tests to find out about a disease",
+  "uuid" : "109dad75-aad6-4e18-ae16-d74993789a4b",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Do scientific experiments",
+  "uuid" : "3e941e81-047b-4d86-87f7-54477b36bafe",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Do you have a plan for the next 2 years?",
+  "uuid" : "4103e656-1f40-4072-a726-5244c02e688f",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Do you have your top 2 career options in mind?",
+  "uuid" : "27e374d7-2943-48de-95ca-9f052ebcbf18",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Do you know what subjects you will choose in Std XI ?",
+  "uuid" : "d627e07d-5064-4824-a758-8d677ed79274",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "No: I don't know",
+    "uuid" : "387c8dfc-a7e5-4961-b50b-e3c00280e4ba",
+    "order" : 1.0
+  }, {
+    "name" : "Maybe: I'm not sure",
+    "uuid" : "54ea2256-997f-4da6-84f9-9d5e81defed5",
+    "order" : 2.0
+  }, {
+    "name" : "Yes: I know exactly which subjects to take",
+    "uuid" : "f9653ea9-2a78-40fb-8d27-fbe34f400538",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Do you know what you want to study after you finish school?",
+  "uuid" : "615fd4c4-3007-4a01-a84a-f56001398a34",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "No: I don't know",
+    "uuid" : "387c8dfc-a7e5-4961-b50b-e3c00280e4ba",
+    "order" : 1.0
+  }, {
+    "name" : "Maybe: I'm not sure",
+    "uuid" : "54ea2256-997f-4da6-84f9-9d5e81defed5",
+    "order" : 2.0
+  }, {
+    "name" : "Yes: I know exactly what to study after finishing school",
+    "uuid" : "2d4183e8-a91f-4f6a-85ef-9c5f24081595",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Do you know what you will do if you do not get the course of your choice after 12th?",
+  "uuid" : "31d3d8b0-7e7d-49d6-a3b7-5700637f0e2a",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No, I have only one option",
+    "uuid" : "45cfbab9-3f70-4823-b67a-4f4b4ea16719",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Do you know what your interests are?",
+  "uuid" : "e7e49e0e-6fcb-4156-a3d6-b911f4ee4c25",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I have no idea of what my interests are",
+    "uuid" : "7fa94b69-6b1e-4996-b5d2-7656d4c6ef11",
+    "order" : 1.0
+  }, {
+    "name" : "Maybe: I have 2-3 interests that I know of",
+    "uuid" : "aaf00694-d072-4709-8fae-b9596b4a7eda",
+    "order" : 2.0
+  }, {
+    "name" : "Yes: I know some but I want to explore other interests",
+    "uuid" : "dff0006c-67d4-42a4-bfeb-aaf9109bb238",
+    "order" : 3.0
+  }, {
+    "name" : "Definitely: I know what my interests are and I enjoy doing them",
+    "uuid" : "4d218d6c-df79-4832-bb92-73063526a2d6",
+    "order" : 4.0
+  } ]
+}, {
+  "name" : "Do you think these skills will help you in your work place?",
+  "uuid" : "d93d5005-764d-449e-a15f-ed3904bfad25",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "No: I don't know",
+    "uuid" : "387c8dfc-a7e5-4961-b50b-e3c00280e4ba",
+    "order" : 1.0
+  }, {
+    "name" : "Maybe: I'm not sure",
+    "uuid" : "54ea2256-997f-4da6-84f9-9d5e81defed5",
+    "order" : 2.0
+  }, {
+    "name" : "Yes: It will probably help me",
+    "uuid" : "86cff4d3-a41d-4e77-a227-5cc44e4bfae1",
+    "order" : 3.0
+  }, {
+    "name" : "Definitely: I know my skills will help me",
+    "uuid" : "21ca8e69-8b87-4e9b-86f1-21926e86b10a",
+    "order" : 4.0
+  } ]
+}, {
+  "name" : "Do you think you will face challenges in reaching your dream career?",
+  "uuid" : "35f363e1-ed88-4df4-9f65-5caaf1417982",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "No: I don't think I will face any challenge",
+    "uuid" : "211cf0ab-e836-4d11-9b4a-a48fc5fcd5ad",
+    "order" : 1.0
+  }, {
+    "name" : "Maybe: I'm not sure",
+    "uuid" : "54ea2256-997f-4da6-84f9-9d5e81defed5",
+    "order" : 2.0
+  }, {
+    "name" : "Yes: I probably will face some challenges",
+    "uuid" : "4c179e08-fc0c-45f8-96ef-ce36b86d9c42",
+    "order" : 3.0
+  }, {
+    "name" : "Definitely: I will definitely face challenges in reaching my pursuing my dream career",
+    "uuid" : "e7041e8c-5832-435d-9692-e456402e6d89",
+    "order" : 4.0
+  } ]
+}, {
+  "name" : "Do you understand what ‘planning’ is?",
+  "uuid" : "b9771971-d9fc-4c00-8cb9-fe55c6659770",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I don’t know",
+    "uuid" : "5100495a-09ae-419c-8f79-13854361d73e",
+    "order" : 1.0
+  }, {
+    "name" : "I know what planning is, but I don’t know how to plan",
+    "uuid" : "bea478ae-4fda-4be0-988b-ab8aeb5f8e93",
+    "order" : 2.0
+  }, {
+    "name" : "I know what planning is and I know the steps to make a plan",
+    "uuid" : "74b9df9a-d9dd-4528-a270-2de8bb947424",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Draw and Paint",
+  "uuid" : "5844ca16-8cf8-4c60-be3c-bb942fd8d1a7",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Enrolment date",
+  "uuid" : "f643a029-046a-4922-8ec4-f0dfe7011c36",
+  "dataType" : "Date"
+}, {
+  "name" : "Excited: I have a few options, yet to make a decision",
+  "uuid" : "8bed9a28-2c30-422b-9bbc-53065c700e07",
+  "dataType" : "NA"
+}, {
+  "name" : "External (family, financial condition, social pressure etc)",
+  "uuid" : "0e16669d-3b4d-4ae1-89c9-7d6382e1dc7a",
+  "dataType" : "NA"
+}, {
+  "name" : "Father's first name",
+  "uuid" : "ef427343-2237-4d76-8d47-3fb60cf72305",
+  "dataType" : "Text"
+}, {
+  "name" : "Father's last name",
+  "uuid" : "b6095f95-9ddf-4047-8fa4-1736ad92f772",
+  "dataType" : "Text"
+}, {
+  "name" : "General",
+  "uuid" : "96079aaf-e2f6-42df-9112-916d0c9d4bdf",
+  "dataType" : "NA"
+}, {
+  "name" : "Give a motivational speech in front of many people",
+  "uuid" : "ef7e4199-ca63-4b41-890a-7d1aea58d397",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Give tuitions to children",
+  "uuid" : "d3edb361-4080-45e6-bf91-5c3cb0a06460",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Have not decided on the course I want to study after school",
+  "uuid" : "f9913615-f442-4b4d-93cb-bdfcfcd102b3",
+  "dataType" : "NA"
+}, {
+  "name" : "Have not decided what subjects to choose in Std XI",
+  "uuid" : "13ef706a-e32c-43d8-b6d5-f6623f3fc2eb",
+  "dataType" : "NA"
+}, {
+  "name" : "Have you thought of what you want to be when you grow up?",
+  "uuid" : "a269764f-0fab-448a-a59e-031728462375",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I haven’t given a thought yet",
+    "uuid" : "e146bda9-26ab-4fb3-a9f1-3c1cbe7cba8e",
+    "order" : 1.0
+  }, {
+    "name" : "I have given it a thought but am not sure",
+    "uuid" : "a06bb095-d867-48ce-9112-36245ea56d2d",
+    "order" : 2.0
+  }, {
+    "name" : "I know exactly what I want to be when I grow up",
+    "uuid" : "63bfcc9e-40ad-4357-8d53-dbea755ca7fb",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Have you worked on your Individual Development Plan",
+  "uuid" : "4b221305-b267-4525-bd49-23cc0326a273",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Yes",
+    "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+    "order" : 1.0
+  }, {
+    "name" : "No",
+    "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Help a blind person by reading aloud a book to him/her",
+  "uuid" : "1d8c88c5-13ac-47d4-b784-1f15cf5a32fd",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "How many soft skills do you think you have?",
+  "uuid" : "6ac040fb-4a47-4c2f-bd9d-43ffc609a617",
+  "dataType" : "Numeric",
+  "lowAbsolute" : 1.0,
+  "highAbsolute" : 21.0
+}, {
+  "name" : "How much have you thought about planning your career?",
+  "uuid" : "885ab665-43b5-4fc7-b82f-7bf598b4797a",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not-so-ready: I haven't started planning for my career",
+    "uuid" : "c816169e-81ec-4938-9cb6-34d02712764b",
+    "order" : 1.0
+  }, {
+    "name" : "Confused: I don't have enough information to plan my career/ I have too much information",
+    "uuid" : "38795739-1096-4e8d-8d60-fbf305b2e4ba",
+    "order" : 2.0
+  }, {
+    "name" : "Excited: I have a few options, yet to make a decision",
+    "uuid" : "8bed9a28-2c30-422b-9bbc-53065c700e07",
+    "order" : 3.0
+  }, {
+    "name" : "Confident, I have decided what I want to do and have planned my career path",
+    "uuid" : "c612cfcc-66b8-4525-8127-c0096723983d",
+    "order" : 4.0
+  } ]
+}, {
+  "name" : "I am a very curious person",
+  "uuid" : "364cb83e-51f2-4221-bee5-57001e0f5dbc",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I am not feeling stuck",
+  "uuid" : "f18ed02e-510c-4b7c-9f47-9df884d01f28",
+  "dataType" : "NA"
+}, {
+  "name" : "I am not sure if the subjects I choose in Std XI will help me with my career path",
+  "uuid" : "2870a26f-0d9e-4e53-af8d-6c2d25329298",
+  "dataType" : "NA"
+}, {
+  "name" : "I am someone who can manage at the last minute",
+  "uuid" : "a57dcb12-0f16-4b4d-b980-b200af444ec8",
+  "dataType" : "NA"
+}, {
+  "name" : "I ask a lot of questions",
+  "uuid" : "9f422aaf-b8b0-4c3b-9aaa-c40dd2a0b63c",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I do well in group activities",
+  "uuid" : "17ad944f-81b8-48e5-bb48-6729ee60d2cb",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I dont need any help",
+  "uuid" : "bcf1eced-5af6-462e-a90a-84c7891fdbb4",
+  "dataType" : "NA"
+}, {
+  "name" : "I don’t know",
+  "uuid" : "5100495a-09ae-419c-8f79-13854361d73e",
+  "dataType" : "NA"
+}, {
+  "name" : "I have given it a thought but am not sure",
+  "uuid" : "a06bb095-d867-48ce-9112-36245ea56d2d",
+  "dataType" : "NA"
+}, {
+  "name" : "I have given my career a thought but haven't been able to come to a decision yet due to lack of information",
+  "uuid" : "d6ea75bf-77e2-4622-ab1d-dbea89a27030",
+  "dataType" : "NA"
+}, {
+  "name" : "I have no idea",
+  "uuid" : "491db245-afb2-40f9-b722-14ad38b890aa",
+  "dataType" : "NA"
+}, {
+  "name" : "I have no idea of what my interests are",
+  "uuid" : "7fa94b69-6b1e-4996-b5d2-7656d4c6ef11",
+  "dataType" : "NA"
+}, {
+  "name" : "I haven't thought about my career plans",
+  "uuid" : "9672e5e5-bb0c-47fb-bc4a-4d6e319d7e34",
+  "dataType" : "NA"
+}, {
+  "name" : "I haven’t given a thought yet",
+  "uuid" : "e146bda9-26ab-4fb3-a9f1-3c1cbe7cba8e",
+  "dataType" : "NA"
+}, {
+  "name" : "I know exactly what I want to be when I grow up",
+  "uuid" : "63bfcc9e-40ad-4357-8d53-dbea755ca7fb",
+  "dataType" : "NA"
+}, {
+  "name" : "I know what course I want to do but I need more information to make a decision",
+  "uuid" : "446e0aa3-c2a0-4d16-86b7-fb53724d721b",
+  "dataType" : "NA"
+}, {
+  "name" : "I know what planning is and I know the steps to make a plan",
+  "uuid" : "74b9df9a-d9dd-4528-a270-2de8bb947424",
+  "dataType" : "NA"
+}, {
+  "name" : "I know what planning is, but I don’t know how to plan",
+  "uuid" : "bea478ae-4fda-4be0-988b-ab8aeb5f8e93",
+  "dataType" : "NA"
+}, {
+  "name" : "I like thinking differently from others",
+  "uuid" : "731a4f20-194a-41ad-bd77-5c5e86c23b33",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I like thinking of new ideas",
+  "uuid" : "1e70dc5c-801c-420b-adbf-85fe9a347379",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I like to debate and discuss using structured arguments and thought processes",
+  "uuid" : "91f4940e-f400-4a0c-983e-44f6963d4eb5",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I like to think logically and rationally",
+  "uuid" : "8067b97d-e659-4d5e-a83f-1edd8b740e84",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I like working with others",
+  "uuid" : "5e27aea0-b651-4dfd-b974-f21bc2111537",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "I want to know more about the different options after school",
+  "uuid" : "ba58c74e-463a-48ad-87e8-0adddb4b8196",
+  "dataType" : "NA"
+}, {
+  "name" : "I will put dome some clear steps but start working on it after 2 months",
+  "uuid" : "5d19728d-6811-455c-bb76-0b6034cdea8a",
+  "dataType" : "NA"
+}, {
+  "name" : "I will put down some clear steps and start working on it",
+  "uuid" : "9623892e-bf6d-489d-8d3f-d9f1c708773f",
+  "dataType" : "NA"
+}, {
+  "name" : "If yes, name some of your challenges?",
+  "uuid" : "4211368a-e388-499e-944a-8b6f428dacc4",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Internal (eg, less interest in studying, less time to make a decision, confused with my career choice etc.)",
+    "uuid" : "dea8ec00-e2b4-440e-bd29-7512a9cfbe74",
+    "order" : 1.0
+  }, {
+    "name" : "External (family, financial condition, social pressure etc)",
+    "uuid" : "0e16669d-3b4d-4ae1-89c9-7d6382e1dc7a",
+    "order" : 2.0
+  }, {
+    "name" : "Other",
+    "uuid" : "0e26f901-fab0-46bb-9485-c61914e87232",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "Install cupboards in a house",
+  "uuid" : "f59c660b-48b1-48a5-a4d8-4ef424cb7ec4",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Internal (eg, less interest in studying, less time to make a decision, confused with my career choice etc.)",
+  "uuid" : "dea8ec00-e2b4-440e-bd29-7512a9cfbe74",
+  "dataType" : "NA"
+}, {
+  "name" : "Like",
+  "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+  "dataType" : "NA"
+}, {
+  "name" : "Look at cells through a microscope",
+  "uuid" : "267d3082-750d-445a-a6a4-59c17826c366",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Maintain financial record of money your family earns and spends",
+  "uuid" : "b12d1214-492a-47a2-a9a7-8fa8c7f61d3b",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Make a greeting card",
+  "uuid" : "0ae1ad74-9ca1-4cd4-8be1-1dbc41e92a79",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Make diet charts for yourself and your family members",
+  "uuid" : "4a11bc42-431e-4734-9482-9fedb8407f80",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Make notes for every subject",
+  "uuid" : "980bf58b-6065-4b7c-83b2-e016f640ac0d",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "May be",
+  "uuid" : "c0f2612e-6fa7-4801-ad9f-affef3782091",
+  "dataType" : "NA"
+}, {
+  "name" : "Maybe: I have 2-3 interests that I know of",
+  "uuid" : "aaf00694-d072-4709-8fae-b9596b4a7eda",
+  "dataType" : "NA"
+}, {
+  "name" : "Maybe: I'm not sure",
+  "uuid" : "54ea2256-997f-4da6-84f9-9d5e81defed5",
+  "dataType" : "NA"
+}, {
+  "name" : "Medical",
+  "uuid" : "1796ee00-a43b-4089-a876-23efa496234c",
+  "dataType" : "NA"
+}, {
+  "name" : "Moderately Good",
+  "uuid" : "a2e18e0d-b02a-4761-af24-bacc2014968d",
+  "dataType" : "NA"
+}, {
+  "name" : "Module number",
+  "uuid" : "b3810f8e-8468-4c48-86ea-b35c75b8dd7d",
+  "dataType" : "Numeric",
+  "lowAbsolute" : 1.0,
+  "highAbsolute" : 20.0,
+  "lowNormal" : 1.0,
+  "highNormal" : 20.0
+}, {
+  "name" : "Neutral",
+  "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+  "dataType" : "NA"
+}, {
+  "name" : "No",
+  "uuid" : "954aba96-d13f-4d9a-a8fd-e11590ccd166",
+  "dataType" : "NA"
+}, {
+  "name" : "No, I have only one option",
+  "uuid" : "45cfbab9-3f70-4823-b67a-4f4b4ea16719",
+  "dataType" : "NA"
+}, {
+  "name" : "No: I don't know",
+  "uuid" : "387c8dfc-a7e5-4961-b50b-e3c00280e4ba",
+  "dataType" : "NA"
+}, {
+  "name" : "No: I don't think I will face any challenge",
+  "uuid" : "211cf0ab-e836-4d11-9b4a-a48fc5fcd5ad",
+  "dataType" : "NA"
+}, {
+  "name" : "Not applicable",
+  "uuid" : "2953773b-23f3-4e9d-a8ee-fdd17c5a8538",
+  "dataType" : "NA"
+}, {
+  "name" : "Not good at it",
+  "uuid" : "21447be7-b3a7-490f-8398-9896c7818f64",
+  "dataType" : "NA"
+}, {
+  "name" : "Not important",
+  "uuid" : "3a4c5c9d-3d55-4ac7-80d7-615c907f4d42",
+  "dataType" : "NA"
+}, {
+  "name" : "Not-so-ready: I haven't started planning for my career",
+  "uuid" : "c816169e-81ec-4938-9cb6-34d02712764b",
+  "dataType" : "NA"
+}, {
+  "name" : "Number of students absent",
+  "uuid" : "ec27dea8-cee2-4faf-afb9-78ff0134405a",
+  "dataType" : "Numeric"
+}, {
+  "name" : "Number of students present",
+  "uuid" : "33d7f29d-916b-4b0c-8f91-a90cc9423696",
+  "dataType" : "Numeric"
+}, {
+  "name" : "OBC",
+  "uuid" : "22b1111f-99f1-4f69-a2c7-7f187ade86dd",
+  "dataType" : "NA"
+}, {
+  "name" : "On a scale of 1- 3, how important do you think planning is?",
+  "uuid" : "26525919-3986-4377-b7d3-614efc2e9ce4",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not important",
+    "uuid" : "3a4c5c9d-3d55-4ac7-80d7-615c907f4d42",
+    "order" : 1.0
+  }, {
+    "name" : "Somewhat important",
+    "uuid" : "75b75f6b-cfea-470b-98cd-31c51228348b",
+    "order" : 2.0
+  }, {
+    "name" : "Planning is very important",
+    "uuid" : "4ccda5b8-3676-4b9c-9897-2d11b56d6249",
+    "order" : 3.0
+  } ]
+}, {
+  "name" : "On a scale of 1-5, rate yourself on Collaboration",
+  "uuid" : "a9455186-a846-4395-a63e-681505621475",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not good at it",
+    "uuid" : "21447be7-b3a7-490f-8398-9896c7818f64",
+    "order" : 1.0
+  }, {
+    "name" : "Weak",
+    "uuid" : "2089c104-ad7e-4f81-9166-770c80a9fd7c",
+    "order" : 2.0
+  }, {
+    "name" : "Average",
+    "uuid" : "e9ed6e89-a5aa-4e8e-898f-acba752729be",
+    "order" : 3.0
+  }, {
+    "name" : "Moderately Good",
+    "uuid" : "a2e18e0d-b02a-4761-af24-bacc2014968d",
+    "order" : 4.0
+  }, {
+    "name" : "Very Good at it",
+    "uuid" : "3ce6c82e-6aa6-4222-9ef3-111f5d70e91a",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "On a scale of 1-5, rate yourself on Creativity",
+  "uuid" : "aebcf58a-0f89-4923-9493-bf177ad95482",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not good at it",
+    "uuid" : "21447be7-b3a7-490f-8398-9896c7818f64",
+    "order" : 1.0
+  }, {
+    "name" : "Weak",
+    "uuid" : "2089c104-ad7e-4f81-9166-770c80a9fd7c",
+    "order" : 2.0
+  }, {
+    "name" : "Average",
+    "uuid" : "e9ed6e89-a5aa-4e8e-898f-acba752729be",
+    "order" : 3.0
+  }, {
+    "name" : "Moderately Good",
+    "uuid" : "a2e18e0d-b02a-4761-af24-bacc2014968d",
+    "order" : 4.0
+  }, {
+    "name" : "Very Good at it",
+    "uuid" : "3ce6c82e-6aa6-4222-9ef3-111f5d70e91a",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "On a scale of 1-5, rate yourself on Critical Thinking",
+  "uuid" : "dfbff935-5bf6-4a0d-b15f-6b78103f200d",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not good at it",
+    "uuid" : "21447be7-b3a7-490f-8398-9896c7818f64",
+    "order" : 1.0
+  }, {
+    "name" : "Weak",
+    "uuid" : "2089c104-ad7e-4f81-9166-770c80a9fd7c",
+    "order" : 2.0
+  }, {
+    "name" : "Average",
+    "uuid" : "e9ed6e89-a5aa-4e8e-898f-acba752729be",
+    "order" : 3.0
+  }, {
+    "name" : "Moderately Good",
+    "uuid" : "a2e18e0d-b02a-4761-af24-bacc2014968d",
+    "order" : 4.0
+  }, {
+    "name" : "Very Good at it",
+    "uuid" : "3ce6c82e-6aa6-4222-9ef3-111f5d70e91a",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "On a scale of 1-5, rate yourself on your Communication Skills",
+  "uuid" : "7f3a4446-fc62-4855-a261-7001b23395e5",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not good at it",
+    "uuid" : "21447be7-b3a7-490f-8398-9896c7818f64",
+    "order" : 1.0
+  }, {
+    "name" : "Weak",
+    "uuid" : "2089c104-ad7e-4f81-9166-770c80a9fd7c",
+    "order" : 2.0
+  }, {
+    "name" : "Average",
+    "uuid" : "e9ed6e89-a5aa-4e8e-898f-acba752729be",
+    "order" : 3.0
+  }, {
+    "name" : "Moderately Good",
+    "uuid" : "a2e18e0d-b02a-4761-af24-bacc2014968d",
+    "order" : 4.0
+  }, {
+    "name" : "Very Good at it",
+    "uuid" : "3ce6c82e-6aa6-4222-9ef3-111f5d70e91a",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "Open up a radio to see how it works",
+  "uuid" : "ed42211d-4b97-48d9-9e75-de15043cc43e",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Operate a bulldozer",
+  "uuid" : "5f5f01c8-dde8-4998-a4a4-49c919304ae6",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Other",
+  "uuid" : "0e26f901-fab0-46bb-9485-c61914e87232",
+  "dataType" : "NA"
+}, {
+  "name" : "People like working with me",
+  "uuid" : "a97bee1a-7674-4bdb-98d7-d003ef35bb0b",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "People think I am a good listener",
+  "uuid" : "0b85fa42-192a-42ef-94cf-461d5e954bc8",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Completely agree",
+    "uuid" : "4521e2f5-930b-44b0-823a-8a2b64c06a5c",
+    "order" : 1.0
+  }, {
+    "name" : "Agree",
+    "uuid" : "6ae8b1fe-5f1a-4688-bf90-972d1d7db06e",
+    "order" : 2.0
+  }, {
+    "name" : "Neutral",
+    "uuid" : "69db086a-2f00-4ddc-97cc-0df7b5f2db48",
+    "order" : 3.0
+  }, {
+    "name" : "Disagree",
+    "uuid" : "af37bdca-b657-4789-871a-5dc3bfd5576f",
+    "order" : 4.0
+  }, {
+    "name" : "Completely disagree",
+    "uuid" : "392049cd-93be-4e3a-9cc8-b21ff6917d79",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "Persuade others to your view point",
+  "uuid" : "e093da5b-89ca-4bd8-b54e-ef00eed90720",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Plan a strategy to launch a new soap in the market",
+  "uuid" : "0fc42251-47b7-435d-831a-4d4a697b45c8",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Plan activities for elderly people",
+  "uuid" : "84d2ca92-c838-4b5c-b2cc-4dced659c496",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Planning is very important",
+  "uuid" : "4ccda5b8-3676-4b9c-9897-2d11b56d6249",
+  "dataType" : "NA"
+}, {
+  "name" : "Repair a TV/radio",
+  "uuid" : "01332087-beb1-408c-ab2c-6ccb1d009224",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Research the properties of a chemical",
+  "uuid" : "69a76f3f-99e1-4098-8d8b-4fd920df05fa",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Result",
+  "uuid" : "2b6272ed-25c5-4678-be42-866b458db407",
+  "dataType" : "Text"
+}, {
+  "name" : "SC",
+  "uuid" : "f8c2f026-8bc0-4ea7-ab61-7190377ff7cc",
+  "dataType" : "NA"
+}, {
+  "name" : "Science",
+  "uuid" : "f7973aa7-8793-41e6-9e1f-a059f3ffca87",
+  "dataType" : "NA"
+}, {
+  "name" : "Somewhat important",
+  "uuid" : "75b75f6b-cfea-470b-98cd-31c51228348b",
+  "dataType" : "NA"
+}, {
+  "name" : "ST",
+  "uuid" : "1b7ca1b1-70af-49df-abb8-caac16778a57",
+  "dataType" : "NA"
+}, {
+  "name" : "Stream",
+  "uuid" : "3b897131-a7f6-4f76-bedf-d7bfaf4a7a5d",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Not applicable",
+    "uuid" : "2953773b-23f3-4e9d-a8ee-fdd17c5a8538",
+    "order" : 1.0
+  }, {
+    "name" : "Science",
+    "uuid" : "f7973aa7-8793-41e6-9e1f-a059f3ffca87",
+    "order" : 2.0
+  }, {
+    "name" : "Arts",
+    "uuid" : "86952051-8d4c-4e74-9066-034b3f8f541f",
+    "order" : 3.0
+  }, {
+    "name" : "Commerce",
+    "uuid" : "857993fc-ea83-4150-913b-6c779f3b4102",
+    "order" : 4.0
+  }, {
+    "name" : "Medical",
+    "uuid" : "1796ee00-a43b-4089-a876-23efa496234c",
+    "order" : 5.0
+  } ]
+}, {
+  "name" : "Student ID",
+  "uuid" : "75bf2719-69ca-4906-98ff-d5c0f04cc708",
+  "dataType" : "Text"
+}, {
+  "name" : "Talk to people and build connections with them",
+  "uuid" : "4f5aa2ab-57b0-4ba0-acc2-3f84b1420da2",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Teach younger children",
+  "uuid" : "31e2fa21-e862-4c8b-a981-8fdc711fdfd8",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Technical/vocational training course",
+  "uuid" : "b1b631f5-3606-47f7-b573-0ffe68110fa7",
+  "dataType" : "NA"
+}, {
+  "name" : "Undergraduation (3 years) eg: BA, BSc",
+  "uuid" : "960be015-fab8-4624-9073-3c0a36c9cc4a",
+  "dataType" : "NA"
+}, {
+  "name" : "Undergraduation (4 years) eg: engineering, architect",
+  "uuid" : "002e6c3c-8fb3-414d-9f07-e2ef07144347",
+  "dataType" : "NA"
+}, {
+  "name" : "Very Good at it",
+  "uuid" : "3ce6c82e-6aa6-4222-9ef3-111f5d70e91a",
+  "dataType" : "NA"
+}, {
+  "name" : "Weak",
+  "uuid" : "2089c104-ad7e-4f81-9166-770c80a9fd7c",
+  "dataType" : "NA"
+}, {
+  "name" : "What can be improved",
+  "uuid" : "e8590a11-1abc-4bcc-b6c7-9e6191a2e9c1",
+  "dataType" : "Text"
+}, {
+  "name" : "What do you plan to do after high school?",
+  "uuid" : "b239815e-a37f-4e57-bb28-a3dd27d6c098",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Undergraduation (3 years) eg: BA, BSc",
+    "uuid" : "960be015-fab8-4624-9073-3c0a36c9cc4a",
+    "order" : 1.0
+  }, {
+    "name" : "Undergraduation (4 years) eg: engineering, architect",
+    "uuid" : "002e6c3c-8fb3-414d-9f07-e2ef07144347",
+    "order" : 2.0
+  }, {
+    "name" : "Diploma",
+    "uuid" : "7d405d21-d6de-48b6-8cfd-0961fc87b85a",
+    "order" : 3.0
+  }, {
+    "name" : "Technical/vocational training course",
+    "uuid" : "b1b631f5-3606-47f7-b573-0ffe68110fa7",
+    "order" : 4.0
+  }, {
+    "name" : "Work in a part-time job",
+    "uuid" : "7b218409-2580-467f-bd85-ddeb115e2bf7",
+    "order" : 5.0
+  }, {
+    "name" : "Work full-time job",
+    "uuid" : "4f9aed4c-8782-4c49-a867-a559296a59cc",
+    "order" : 6.0
+  }, {
+    "name" : "Other",
+    "uuid" : "0e26f901-fab0-46bb-9485-c61914e87232",
+    "order" : 7.0
+  }, {
+    "name" : "I have no idea",
+    "uuid" : "491db245-afb2-40f9-b722-14ad38b890aa",
+    "order" : 8.0
+  } ]
+}, {
+  "name" : "What went well",
+  "uuid" : "a8a95e50-7f6e-4088-8b71-eabe44ae0fd7",
+  "dataType" : "Text"
+}, {
+  "name" : "Where do you need help?",
+  "uuid" : "b020d267-de24-402a-b23a-8eabeb98ec23",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I am not sure if the subjects I choose in Std XI will help me with my career path",
+    "uuid" : "2870a26f-0d9e-4e53-af8d-6c2d25329298",
+    "order" : 1.0
+  }, {
+    "name" : "I know what course I want to do but I need more information to make a decision",
+    "uuid" : "446e0aa3-c2a0-4d16-86b7-fb53724d721b",
+    "order" : 2.0
+  }, {
+    "name" : "I want to know more about the different options after school",
+    "uuid" : "ba58c74e-463a-48ad-87e8-0adddb4b8196",
+    "order" : 3.0
+  }, {
+    "name" : "I have given my career a thought but haven't been able to come to a decision yet due to lack of information",
+    "uuid" : "d6ea75bf-77e2-4622-ab1d-dbea89a27030",
+    "order" : 4.0
+  }, {
+    "name" : "I haven't thought about my career plans",
+    "uuid" : "9672e5e5-bb0c-47fb-bc4a-4d6e319d7e34",
+    "order" : 5.0
+  }, {
+    "name" : "Any other",
+    "uuid" : "43f2634f-eac3-4230-9183-1a08ea04fc9c",
+    "order" : 6.0
+  }, {
+    "name" : "I dont need any help",
+    "uuid" : "bcf1eced-5af6-462e-a90a-84c7891fdbb4",
+    "order" : 7.0
+  } ]
+}, {
+  "name" : "Work full-time job",
+  "uuid" : "4f9aed4c-8782-4c49-a867-a559296a59cc",
+  "dataType" : "NA"
+}, {
+  "name" : "Work in a part-time job",
+  "uuid" : "7b218409-2580-467f-bd85-ddeb115e2bf7",
+  "dataType" : "NA"
+}, {
+  "name" : "Write a poem",
+  "uuid" : "9c94d89c-5e2d-4a3a-a1ee-bccdfc028fcf",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Write a story for a film",
+  "uuid" : "c63b3345-c472-4c43-a71b-caefcac33535",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "Like",
+    "uuid" : "60e6cd73-8d0c-4939-840e-955fa8fb8421",
+    "order" : 1.0
+  }, {
+    "name" : "Dislike",
+    "uuid" : "beecf6c3-3aa7-4727-b7da-2c6f7d59fccc",
+    "order" : 2.0
+  } ]
+}, {
+  "name" : "Yes",
+  "uuid" : "d2f94ecd-073d-4b77-a425-17a5bb727921",
+  "dataType" : "NA"
+}, {
+  "name" : "Yes: I know exactly what to study after finishing school",
+  "uuid" : "2d4183e8-a91f-4f6a-85ef-9c5f24081595",
+  "dataType" : "NA"
+}, {
+  "name" : "Yes: I know exactly which subjects to take",
+  "uuid" : "f9653ea9-2a78-40fb-8d27-fbe34f400538",
+  "dataType" : "NA"
+}, {
+  "name" : "Yes: I know some but I want to explore other interests",
+  "uuid" : "dff0006c-67d4-42a4-bfeb-aaf9109bb238",
+  "dataType" : "NA"
+}, {
+  "name" : "Yes: I probably will face some challenges",
+  "uuid" : "4c179e08-fc0c-45f8-96ef-ce36b86d9c42",
+  "dataType" : "NA"
+}, {
+  "name" : "Yes: It will probably help me",
+  "uuid" : "86cff4d3-a41d-4e77-a227-5cc44e4bfae1",
+  "dataType" : "NA"
+}, {
+  "name" : "You have an event in 3 months. What do you do?",
+  "uuid" : "a6828fe0-818d-46b4-a47e-9bdcb44b5105",
+  "dataType" : "Coded",
+  "answers" : [ {
+    "name" : "I am someone who can manage at the last minute",
+    "uuid" : "a57dcb12-0f16-4b4d-b980-b200af444ec8",
+    "order" : 1.0
+  }, {
+    "name" : "I will put dome some clear steps but start working on it after 2 months",
+    "uuid" : "5d19728d-6811-455c-bb76-0b6034cdea8a",
+    "order" : 2.0
+  }, {
+    "name" : "I will put down some clear steps and start working on it",
+    "uuid" : "9623892e-bf6d-489d-8d3f-d9f1c708773f",
+    "order" : 3.0
+  } ]
+} ]

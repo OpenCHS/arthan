@@ -1,0 +1,19 @@
+[ {
+  "uuid" : "de9c5451-501a-4dbf-9b85-5124773db0d6",
+  "name" : "ABC school",
+  "addressLevelTypeUUID" : "56a6fad6-2fe0-4ef7-b8c6-0834bb09795e"
+}, {
+  "uuid" : "d9e78ac4-caeb-4d94-a3db-5b3a168dbd43",
+  "name" : "6B, ABC school",
+  "parent" : {
+    "uuid" : "de9c5451-501a-4dbf-9b85-5124773db0d6"
+  },
+  "addressLevelTypeUUID" : "6c1184d9-3de3-4930-bccd-d5c1a94335db"
+}, {
+  "uuid" : "fc01acec-4e9a-4041-908b-0d2a1714841e",
+  "name" : "6A, ABC school",
+  "parent" : {
+    "uuid" : "de9c5451-501a-4dbf-9b85-5124773db0d6"
+  },
+  "addressLevelTypeUUID" : "6c1184d9-3de3-4930-bccd-d5c1a94335db"
+} ]

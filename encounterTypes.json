@@ -1,18 +1,13 @@
-[
-  {
-    "uuid": "a30afe96-cdbb-42d9-bf30-6cf4b07354d1",
-    "name": "Baseline"
-  },
-  {
-    "uuid": "36afebcf-0b68-477f-ae5c-190da5d9f1d8",
-    "name": "Endline"
-  },
-  {
-    "uuid": "01a8f32c-9e25-4388-9cbf-b32442733af2",
-    "name": "Classroom session"
-  },
-  {
-    "uuid": "494b6c57-e314-48fa-90f1-c5d1ccf135b8",
-    "name": "Psychometric Format"
-  }
-]
+[ {
+  "name" : "Psychometric Format",
+  "uuid" : "494b6c57-e314-48fa-90f1-c5d1ccf135b8"
+}, {
+  "name" : "Classroom session",
+  "uuid" : "01a8f32c-9e25-4388-9cbf-b32442733af2"
+}, {
+  "name" : "Endline",
+  "uuid" : "36afebcf-0b68-477f-ae5c-190da5d9f1d8"
+}, {
+  "name" : "Baseline",
+  "uuid" : "a30afe96-cdbb-42d9-bf30-6cf4b07354d1"
+} ]

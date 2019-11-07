@@ -1,0 +1,16 @@
+{
+  "organisationUUID" : "b138b4c3-1243-49d4-90e3-1aa38e67ac1d",
+  "operationalSubjectTypes" : [ {
+    "uuid" : "cbd6fccf-0aeb-4bfe-9c39-c39523f2468d",
+    "subjectType" : {
+      "uuid" : "df08d98c-4b26-4b54-8b28-16bc5fd2e786"
+    },
+    "name" : "Classroom session"
+  }, {
+    "uuid" : "d89d2331-501f-48fc-a3db-3aa55c7754fc",
+    "subjectType" : {
+      "uuid" : "30a3866d-0b3e-4d7e-9276-92a552d74168"
+    },
+    "name" : "Individual"
+  } ]
+}

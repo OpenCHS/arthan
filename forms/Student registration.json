@@ -1,0 +1,69 @@
+{
+  "name" : "Student registration",
+  "uuid" : "6c4331e6-6600-4279-9376-279216229916",
+  "formType" : "IndividualProfile",
+  "formElementGroups" : [ {
+    "uuid" : "c27f21cd-d7a3-463d-bed1-518015b09c2e",
+    "name" : "Details",
+    "displayOrder" : 1.0,
+    "display" : "Details",
+    "formElements" : [ {
+      "name" : "Student ID",
+      "uuid" : "8c16dd25-26de-4f18-b837-15b5198b0b58",
+      "keyValues" : [ ],
+      "concept" : {
+        "uuid" : "75bf2719-69ca-4906-98ff-d5c0f04cc708"
+      },
+      "displayOrder" : 1.0,
+      "type" : "SingleSelect",
+      "mandatory" : true,
+      "voided" : false
+    }, {
+      "name" : "Father's first name",
+      "uuid" : "93c903a7-a1e5-4569-9413-fd569b8d0a84",
+      "keyValues" : [ ],
+      "concept" : {
+        "uuid" : "ef427343-2237-4d76-8d47-3fb60cf72305"
+      },
+      "displayOrder" : 2.0,
+      "type" : "SingleSelect",
+      "mandatory" : true,
+      "voided" : false
+    }, {
+      "name" : "Father's last name",
+      "uuid" : "d9539e6f-8bd5-4bec-bfea-34d9aa6bb0fc",
+      "keyValues" : [ ],
+      "concept" : {
+        "uuid" : "b6095f95-9ddf-4047-8fa4-1736ad92f772"
+      },
+      "displayOrder" : 3.0,
+      "type" : "SingleSelect",
+      "mandatory" : true,
+      "voided" : false
+    }, {
+      "name" : "Category",
+      "uuid" : "55992d12-7bee-4c90-9ead-247659162fca",
+      "keyValues" : [ ],
+      "concept" : {
+        "uuid" : "d123af4f-6260-46df-bbf4-e1944b3d1bd4"
+      },
+      "displayOrder" : 4.0,
+      "type" : "SingleSelect",
+      "mandatory" : true,
+      "voided" : false
+    }, {
+      "name" : "Stream",
+      "uuid" : "8e2bc811-e981-4b1b-860a-68f94559fdb5",
+      "keyValues" : [ ],
+      "concept" : {
+        "uuid" : "3b897131-a7f6-4f76-bedf-d7bfaf4a7a5d"
+      },
+      "displayOrder" : 5.0,
+      "type" : "SingleSelect",
+      "mandatory" : true,
+      "voided" : false
+    } ],
+    "voided" : false
+  } ],
+  "voided" : false
+}
