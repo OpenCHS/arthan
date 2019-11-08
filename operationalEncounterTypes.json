@@ -1,17 +1,11 @@
 {
   "organisationName" : "Arthan",
   "operationalEncounterTypes" : [ {
-    "uuid" : "1a8ae5a0-4a31-4695-ab4c-74b186ce3e47",
+    "uuid" : "f56658b2-401c-46f0-bc43-32be7c631539",
     "encounterType" : {
-      "uuid" : "494b6c57-e314-48fa-90f1-c5d1ccf135b8"
+      "uuid" : "a30afe96-cdbb-42d9-bf30-6cf4b07354d1"
     },
-    "name" : "Psychometric Format"
-  }, {
-    "uuid" : "a10cc0e1-c5ad-430d-9732-250d9e98f010",
-    "encounterType" : {
-      "uuid" : "01a8f32c-9e25-4388-9cbf-b32442733af2"
-    },
-    "name" : "Classroom session"
+    "name" : "Baseline"
   }, {
     "uuid" : "b6fff3d7-52a7-407e-9234-cd1b63b65d6f",
     "encounterType" : {
@@ -19,10 +13,16 @@
     },
     "name" : "Endline"
   }, {
-    "uuid" : "f56658b2-401c-46f0-bc43-32be7c631539",
+    "uuid" : "a10cc0e1-c5ad-430d-9732-250d9e98f010",
     "encounterType" : {
-      "uuid" : "a30afe96-cdbb-42d9-bf30-6cf4b07354d1"
+      "uuid" : "01a8f32c-9e25-4388-9cbf-b32442733af2"
     },
-    "name" : "Baseline"
+    "name" : "Classroom session"
+  }, {
+    "uuid" : "1a8ae5a0-4a31-4695-ab4c-74b186ce3e47",
+    "encounterType" : {
+      "uuid" : "494b6c57-e314-48fa-90f1-c5d1ccf135b8"
+    },
+    "name" : "Psychometric Format"
   } ]
 }

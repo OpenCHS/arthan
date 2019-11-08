@@ -5,9 +5,9 @@
     "uuid" : "1b3af4bb-41e7-47fa-8a9b-9a2718d48e85",
     "type" : "classrooms",
     "locations" : [ {
-      "uuid" : "fc01acec-4e9a-4041-908b-0d2a1714841e"
-    }, {
       "uuid" : "d9e78ac4-caeb-4d94-a3db-5b3a168dbd43"
+    }, {
+      "uuid" : "fc01acec-4e9a-4041-908b-0d2a1714841e"
     } ],
     "voided" : false
   } ]
