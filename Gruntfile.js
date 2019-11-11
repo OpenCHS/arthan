@@ -16,8 +16,7 @@ module.exports = IDI.configure({
             "./forms/Baseline.json",
             "./forms/Classroom session.json",
             "./forms/Psychometric Format Form.json",
-            "./forms/Endline.json",
-            "./testEncounter.json"
+            "./forms/Endline.json"
         ],
         "formMappings": ["./formMappings.json"],
         "formDeletions": [],
