@@ -16,7 +16,8 @@ module.exports = IDI.configure({
             "./forms/Baseline.json",
             "./forms/Classroom session.json",
             "./forms/Psychometric Format Form.json",
-            "./forms/Endline.json"
+            "./forms/Endline.json",
+            "./testEncounter.json"
         ],
         "formMappings": ["./formMappings.json"],
         "formDeletions": [],
@@ -47,7 +48,11 @@ module.exports = IDI.configure({
         ],
         "organisationSql": [
             "create_gender.sql"
+        ],
+        "organisationConfig": ["organisationConfig.json"],
+        "translations": [
+            "translations/en.json",
+            "translations/hi_IN.json",
         ]
-
     }
 }, rulesConfigInfra);
