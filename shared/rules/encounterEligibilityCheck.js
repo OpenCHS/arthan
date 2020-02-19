@@ -57,7 +57,7 @@ class PsychometricEligibility {
           const visitCount = individual.enrolments[0].encounters.filter(e => e.encounterType.uuid === '494b6c57-e314-48fa-90f1-c5d1ccf135b8').length;
 
           let visibility = true;
-          if (_.isEqual(visitCount, 4))
+          if (_.isEqual(visitCount, 1))
               visibility = false;
   
           return visibility;
